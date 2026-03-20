@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "清醒夢的科學研究",
+    "subtitle": "從實驗室驗證到臨床應用",
+    "category": "evidence",
+    "content": "【研究概述】\n\n清醒夢（Lucid Dreaming）是指在夢中意識到自己正在做夢的狀態。這一現象在1970年代後期獲得科學驗證，當時研究人員證明夢者可以從REM睡眠中發送預先安排的眼球運動訊號。\n\n【關鍵研究】\n\nStephen LaBerge在1980年發表的開創性研究首次在實驗室中驗證了清醒夢的存在。他開發了MILD（Mnemonic Induction of Lucid Dreams）技術，使清醒夢可以通過訓練來誘導。\n\n2012年，Dresler等人使用fMRI掃描了正在經歷清醒夢的大腦，發現前額葉皮層、楔前葉和枕顳皮層等區域出現激活，這些區域在普通REM睡眠中通常較為安靜。\n\n【臨床應用】\n\n清醒夢技術已被用於治療噩夢、創傷後壓力症候群（PTSD）和改善睡眠質量。研究表明，清醒夢者可以通過在夢中面對恐懼來減少噩夢的頻率和強度。",
+    "sources": [
+      {
+        "title": "Lucid dreaming as a learnable skill: A case study",
+        "author": "LaBerge, S. P.",
+        "publication": "Perceptual and Motor Skills",
+        "year": "1980",
+        "url": "https://doi.org/10.2466/pms.1980.51.3f.1039",
+        "type": "journal",
+        "verified": false
+      },
+      {
+        "title": "Neural Correlates of Dream Lucidity Obtained from Contrasting Lucid versus Non-Lucid REM Sleep",
+        "author": "Dresler, M. et al.",
+        "publication": "Sleep",
+        "year": "2012",
+        "url": "https://doi.org/10.5665/sleep.1974",
+        "type": "journal",
+        "verified": false
+      },
+      {
+        "title": "Pre-sleep treatment with galantamine stimulates lucid dreaming",
+        "author": "LaBerge, S., LaMarca, K., & Baird, B.",
+        "publication": "PLoS One",
+        "year": "2018",
+        "url": "https://doi.org/10.1371/journal.pone.0201246",
+        "type": "journal",
+        "verified": false
+      }
+    ],
+    "tags": [
+      "清醒夢",
+      "睡眠研究",
+      "神經科學",
+      "臨床應用"
+    ],
+    "status": "published",
+    "createdAt": "2024-01-15",
+    "updatedAt": "2024-01-15",
+    "viewCount": 0,
+    "ratingCount": 0,
+    "averageQualityScore": 0,
+    "averageSourceReliability": 0,
+    "controversial": false
+  },
+  {
+    "id": "2",
+    "title": "瀕死體驗的科學研究",
+    "subtitle": "死亡邊緣的意識現象",
+    "category": "evidence",
+    "content": "【研究概述】\n\n瀕死體驗（Near-Death Experience, NDE）是指人在接近死亡時經歷的一系列主觀體驗，常見元素包括離體體驗、穿越隧道、看到強光、人生回顧等。\n\n【主要研究者】\n\nRaymond Moody在1975年出版的《Life After Life》首次系統性地收集了瀕死體驗案例。Bruce Greyson開發了瀕死體驗量表（NDE Scale），用於量化評估這些體驗的特徵。\n\n【重要發現】\n\n2024年，密歇根大學的研究團隊分析了四位臨終患者的腦電圖記錄，發現在生命支持系統被移除後，兩位患者出現了gamma頻段腦電活動的激增，這與意識相關。\n\n研究表明，約15-20%的瀕死倖存者報告有過瀕死體驗，且這些體驗往往對他們的人生觀產生深遠影響，包括減少對死亡的恐懼、增加對他人的關懷等。",
+    "sources": [
+      {
+        "title": "Life After Life",
+        "author": "Moody, R.",
+        "publication": "Mockingbird Books",
+        "year": "1975",
+        "type": "book",
+        "verified": false
+      },
+      {
+        "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain",
+        "author": "Borjigin, J. et al.",
+        "publication": "PNAS",
+        "year": "2023",
+        "url": "https://doi.org/10.1073/pnas.2216268120",
+        "type": "journal",
+        "verified": false
+      },
+      {
+        "title": "The Composition of Ian Stevenson's Twenty Cases Suggestive of Reincarnation",
+        "author": "Matlock, J. G.",
+        "publication": "Journal of Scientific Exploration",
+        "year": "2024",
+        "url": "https://doi.org/10.31275/20243215",
+        "type": "journal",
+        "verified": false
+      }
+    ],
+    "tags": [
+      "瀕死體驗",
+      "意識研究",
+      "神經科學",
+      "死亡"
+    ],
+    "status": "published",
+    "createdAt": "2024-01-15",
+    "updatedAt": "2024-01-15",
+    "viewCount": 0,
+    "ratingCount": 0,
+    "averageQualityScore": 0,
+    "averageSourceReliability": 0,
+    "controversial": false
+  }
+]
